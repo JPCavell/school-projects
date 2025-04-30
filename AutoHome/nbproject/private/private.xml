@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/RemoteControl.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/GarageDoor.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/ICommand.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/LightOnCommand.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/LightOffCommand.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/GarageDoorOpenCommand.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/GarageDoorCloseCommand.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/AutoHome.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/AutoHome/src/autohome/Light.java</file>
+        </group>
+    </open-files>
+</project-private>
