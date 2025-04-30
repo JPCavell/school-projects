@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/AccountRepository.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/ICategory.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IEntity.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/Account.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/PersonalFinanceApp2024.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IPersonalFinance.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/TestMain.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/Cash.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/Category.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/BaseRepository.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IAccount.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IBudget.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IBalanceValidator.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/CategoryRepository.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/ITransaction.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/Test.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/ExceptionTest.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/NonNegativeBalanceValidator.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IRepository.java</file>
+            <file>file:/C:/Users/M3SS1/OneDrive/Documents/NetBeansProjects/PersonalFinanceApp2024/src/IBalanceChangeable.java</file>
+        </group>
+    </open-files>
+</project-private>
